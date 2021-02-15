@@ -1,4 +1,4 @@
-module k8s-iam-auth-token-generator
+module github.com/marcusschmidt/k8s-iam-auth-token-generator
 
 go 1.15
 
